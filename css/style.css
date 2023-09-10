@@ -1,0 +1,134 @@
+body{
+margin: 0;
+background-color: #F5DFB6;
+font-family: Arial, sans-serif;
+}
+header{
+background-color: #EEB3B0;
+padding: 10px;
+text-align: center;
+}
+h1{
+font-size: 90px;
+color: white;
+}
+header img{
+border-radius: 174px;
+width: 200px;
+border: 12px solid #F5DFB6;
+margin-top: 30px;
+font-family: masterplan_;
+  src: url(../C:\Users\mauij\OneDrive\Dowbloads\\FOnts/master\ plan\ _);
+}
+.content{
+margin: 0 auto;
+padding: 0 60px;
+padding-bottom: 10px;
+padding-top: 15px;
+padding-left: 60px;
+text-align: left;
+box-shadow: 0px 5px 5px 10px rgba(0, 0, 0, .5);
+vertical-align: top;
+display: inline-block;
+margin-top: 8rem;
+  width: 28rem;
+  height: 33rem;
+  margin-top: 75px;
+	margin-left: 755px;
+  	border-radius: 30px;
+}
+  .content img{
+  	height: 80px;
+  	width: 85px;
+  	margin-top: 120px;
+
+}
+.container p{
+	text-indent: 20em;
+}
+.container img{
+	margin-bottom: 100px;
+	margin-left: 290px;
+	margin-top: 40px;
+  	margin-right: auto;
+  	width: 500px;
+  	height: 450px;
+  	display: inline-block;
+  border-radius: 20px;
+  box-shadow: 0px 5px 5px 10px rgba(0, 0, 0, .5);
+
+}
+img.big-image{
+
+width: 700px;
+border-radius: 17px;
+border-color: #322F27;
+border-width: 7px;
+margin-right: auto;
+margin-left: 450px;
+border-style: solid;
+margin-bottom: 80px;
+}
+p.caption{
+font-size: 16px;
+color: grey;
+font-style: italic;
+padding-left: 30em;
+}
+h3{
+	text-align: center;
+	font-size: 30px;
+}
+.wrapper{
+	padding-left: 271px;
+}
+text-align: center;
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+text-align: center;
+}
+
+a{
+color: red;
+text-decora3on: none;
+}
+.friends-list {
+  width: 350px;
+  height: 110px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 10px;
+  margin-top: 0;
+  display: block;
+}
+
+.friends-list img {
+  width: 90px;
+  height: 80px;
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.friends-list img:hover {
+  background-color: #F6BDAC;
+  border-radius: 20px;
+  transition: .6s ease;
+}
+footer{
+margin-top: 20px;
+padding: 10px 20px;
+background-color: #82AC80;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
