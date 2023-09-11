@@ -35,7 +35,6 @@ font-family: masterplan_;
   margin-right: auto;
   margin-bottom: 10em;
   display: block;
-  width: max-content;
 }
 
 .pointing-anya {
@@ -62,7 +61,6 @@ width: 700px;
 
 .content:hover {
   background-color: rgba(238, 179, 176, .4);
-  
 }
 
 h2{
